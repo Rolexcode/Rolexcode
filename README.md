@@ -19,4 +19,3 @@ I’m deepening my knowledge of Cloud Engineering and DevOps while continuing to
 ## Connect
 
 - [X — @rolexthexplorer](https://x.com/rolexthexplorer)
-- [GitHub — @Rolexcode](https://github.com/Rolexcode)
