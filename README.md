@@ -1,21 +1,25 @@
-# Hi, I’m Rolex
+# Rolex
 
-I’m a developer building practical web products, Web3 applications and developer tools.
+Developer building practical products across the web, Web3, and developer tooling.
 
-I enjoy turning ideas into functional, deployed experiences while exploring emerging technologies and improving how I build.
+I like taking ideas from concept to deployed products — from student platforms and consumer tools to onchain applications and automation.
 
-## What I work with
+## Selected work
 
-- TypeScript, JavaScript and Python
-- React, Next.js and Node.js
-- Firebase, Redis and REST APIs
-- Solana, Web3.js and SPL Tokens
-- GitHub, Vercel and Linux
+**[CampusGig](https://github.com/Rolexcode/campus_gig)** — A student-focused freelance marketplace with student verification and USDC escrow on Solana.
 
-## Currently
+**[SolIdentity](https://github.com/Rolexcode/sol-identity)** — A Solana identity and reputation layer for resolving wallets, `.sol` domains, SNS records, and trust signals.
 
-I’m deepening my knowledge of Cloud Engineering and DevOps while continuing to build and ship products.
+**[ZenGuard](https://github.com/Rolexcode/zerion-ai)** — A Telegram-based portfolio automation tool for monitoring wallets, tracking PnL, and managing positions across Solana and EVM.
+
+**[Daymark](https://github.com/Rolexcode/daymark)** — A simple habit and accountability tracker with calendar-based reminders and portable habit backups.
+
+**[VeilAid](https://github.com/Rolexcode/veilaid)** — A privacy-focused Web3 project built around transparent onchain infrastructure.
+
+## Exploring
+
+Currently going deeper into Cloud Engineering, DevOps, Linux, and infrastructure while continuing to build and ship products.
 
 ## Connect
 
-- [X — @rolexthexplorer](https://x.com/rolexthexplorer)
+[X — @rolexthexplorer](https://x.com/rolexthexplorer)
