@@ -6,7 +6,6 @@ I like taking ideas from concept to deployed products — from student platforms
 
 ## Selected work
 
-**[CampusGig](https://github.com/Rolexcode/campus_gig)** — A student-focused freelance marketplace with student verification and USDC escrow on Solana.
 
 **[SolIdentity](https://github.com/Rolexcode/sol-identity)** — A Solana identity and reputation layer for resolving wallets, `.sol` domains, SNS records, and trust signals.
 
